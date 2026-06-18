@@ -17,7 +17,7 @@
 
 ## Smoking Subschema
 
-| Entity | Full name | Type | Meaning | Example |
+| Variable | Full name | Type | Meaning | Example |
 | --- | --- | --- | --- | --- |
 | `SMOKING_STATUS` | Smoking status | Categorical | Current, former, never, or unknown smoking status | `current smoker`; `former smoker`; `never smoked`; `denies tobacco use` |
 | `PACK_YEAR` | Pack-year | Numeric exposure | Total cumulative smoking exposure; `1 pack-year = 1 pack per day x 1 year` | `30 pack-year history` |
