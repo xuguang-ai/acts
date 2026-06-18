@@ -216,7 +216,7 @@ Examples:
 * Active amyloid immunization
 * Active tau immunization
 
-These vaccines are typically encountered in Alzheimer's disease clinical trials or research documentation.
+These vaccines are typically encountered in Alzheimer's disease clinical trials or research documentation. They are **not** in the CDC reference table; map them by name/code using the dedicated reference table `../references/Active_Amyloid_Tau_Immunization_Reference_Table.md` (sourced from Alzforum). Passive monoclonal antibodies (e.g., lecanemab, donanemab, aducanumab) are **not** vaccines and do not belong in this category.
 
 ---
 
